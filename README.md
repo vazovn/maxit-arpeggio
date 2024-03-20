@@ -40,3 +40,6 @@ curl -X POST -H 'Content-Type: text/plain' --data-binary @input.pdb http://local
 curl -X POST -H 'Content-Type: text/plain' --data-binary @input.cif http://localhost:8080
 ```
 # maxit-arpeggio
+
+Maxit arpeggio includes pdbe-arpeggio into the existing image made by Tomasz Zok (`tomasz.zok@cs.put.poznan.pl`) from Poznan University of Technology.
+Special thanks to Tomasz for the help!
